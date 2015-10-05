@@ -45,9 +45,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AnotherClass.cs" />
      <Compile Include="Assets\Convention&amp;Syntax.cs" />
      <Compile Include="Assets\IfStatements.cs" />
      <Compile Include="Assets\Loops.cs" />
+     <Compile Include="Assets\ScopeAndAccessModifiers.cs" />
      <Compile Include="Assets\variablescript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
