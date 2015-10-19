@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\AnotherClass.cs" />
+     <Compile Include="Assets\Arrays.cs" />
      <Compile Include="Assets\ClassesAndDataTypes.cs" />
      <Compile Include="Assets\Convention&amp;Syntax.cs" />
      <Compile Include="Assets\IfStatements.cs" />
