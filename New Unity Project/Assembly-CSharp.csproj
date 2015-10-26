@@ -49,6 +49,7 @@
      <Compile Include="Assets\Arrays.cs" />
      <Compile Include="Assets\ClassesAndDataTypes.cs" />
      <Compile Include="Assets\Convention&amp;Syntax.cs" />
+     <Compile Include="Assets\EnumScript.cs" />
      <Compile Include="Assets\IfStatements.cs" />
      <Compile Include="Assets\Loops.cs" />
      <Compile Include="Assets\ScopeAndAccessModifiers.cs" />
