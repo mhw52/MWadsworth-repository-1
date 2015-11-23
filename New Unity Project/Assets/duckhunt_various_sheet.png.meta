@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 9e8b1dbc19b3dfc44853b5e68743092a
+timeCreated: 1447691872
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: duckhunt_various_sheet_0
+    21300002: duckhunt_various_sheet_1
+    21300004: duckhunt_various_sheet_2
+    21300006: duckhunt_various_sheet_3
+    21300008: duckhunt_various_sheet_4
+    21300010: duckhunt_various_sheet_5
+    21300012: duckhunt_various_sheet_6
+    21300014: duckhunt_various_sheet_7
+    21300016: duckhunt_various_sheet_8
+    21300018: duckhunt_various_sheet_9
+    21300020: duckhunt_various_sheet_10
+    21300022: duckhunt_various_sheet_11
+    21300024: duckhunt_various_sheet_12
+    21300026: duckhunt_various_sheet_13
+    21300028: duckhunt_various_sheet_14
+    21300030: duckhunt_various_sheet_15
+    21300032: duckhunt_various_sheet_16
+    21300034: duckhunt_various_sheet_17
+    21300036: duckhunt_various_sheet_18
+    21300038: duckhunt_various_sheet_19
+    21300040: duckhunt_various_sheet_20
+    21300042: duckhunt_various_sheet_21
+    21300044: duckhunt_various_sheet_22
+    21300046: duckhunt_various_sheet_23
+    21300048: duckhunt_various_sheet_24
+    21300050: duckhunt_various_sheet_25
+    21300052: duckhunt_various_sheet_26
+    21300054: duckhunt_various_sheet_27
+    21300056: duckhunt_various_sheet_28
+    21300058: duckhunt_various_sheet_29
+    21300060: duckhunt_various_sheet_30
+    21300062: duckhunt_various_sheet_31
+    21300064: duckhunt_various_sheet_32
+    21300066: duckhunt_various_sheet_33
+    21300068: duckhunt_various_sheet_34
+    21300070: duckhunt_various_sheet_35
+    21300072: duckhunt_various_sheet_36
+    21300074: duckhunt_various_sheet_37
+    21300076: duckhunt_various_sheet_38
+    21300078: duckhunt_various_sheet_39
+    21300080: duckhunt_various_sheet_40
+    21300082: duckhunt_various_sheet_41
+    21300084: duckhunt_various_sheet_42
+    21300086: duckhunt_various_sheet_43
+    21300088: duckhunt_various_sheet_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: duckhunt_various_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 225
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duckhunt_various_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 165
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duckhunt_various_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 165
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duckhunt_various_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 122
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duckhunt_various_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 124
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duckhunt_various_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 120
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duckhunt_various_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 79
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duckhunt_various_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 80
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duckhunt_various_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 79
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duckhunt_various_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duckhunt_various_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 39
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duckhunt_various_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 39
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duckhunt_various_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: duckhunt_various_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
