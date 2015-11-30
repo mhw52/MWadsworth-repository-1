@@ -49,23 +49,22 @@
      <Compile Include="Assets\Arrays.cs" />
      <Compile Include="Assets\ClassesAndDataTypes.cs" />
      <Compile Include="Assets\Convention&amp;Syntax.cs" />
+     <Compile Include="Assets\DuckCollision.cs" />
+     <Compile Include="Assets\DuckDestroy.cs" />
+     <Compile Include="Assets\DuckSpawner.cs" />
+     <Compile Include="Assets\Duckhuntscript.cs" />
      <Compile Include="Assets\EnumScript.cs" />
+     <Compile Include="Assets\GameManager.cs" />
      <Compile Include="Assets\IfStatements.cs" />
      <Compile Include="Assets\Loops.cs" />
      <Compile Include="Assets\ScopeAndAccessModifiers.cs" />
      <Compile Include="Assets\SwitchStatement.cs" />
      <Compile Include="Assets\variablescript.cs" />
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>
