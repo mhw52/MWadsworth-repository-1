@@ -6,7 +6,8 @@ public class DuckSpawner : MonoBehaviour {
 
 	public GameObject Duck;
 	// Use this for initialization
-	//void Start () {
+	//void Start () 
+	//{
 	
 	//}
 	

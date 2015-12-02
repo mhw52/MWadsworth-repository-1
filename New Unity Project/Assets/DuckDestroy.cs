@@ -4,14 +4,20 @@ using System.Collections;
 public class DuckDestroy : MonoBehaviour {
 
 	// Use this for initialization
-	void Start () {
+	//void Start () {
 	
-	}
+	//}
 	
 	// Update is called once per frame
-	void Update () {
+	//void Update () {
 	
-		if (Input.GetKey (KeyCode.Space)) 
+
+
+	//}
+
+	void OnTriggerEnter(Collider hit)
+	{
+		if (hit.tag == "Killzone")
 		{
 			Destroy (gameObject);
 		}
