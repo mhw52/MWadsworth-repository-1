@@ -9,12 +9,15 @@ public class DuckCollision : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 	
+		GameManager.OnDuckShot += TurnOff;
+		GameManager.OnDuckMiss += TurnOff;
+		GameManager.OnSpawnDuck += TurnOn;
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	//void Update () {
 	
-	}
+	//}
 
 	public void OnCollisionEnter(Collision hit)
 	{
@@ -32,5 +35,15 @@ public class DuckCollision : MonoBehaviour {
 			}
 		
 		}
+	}
+
+	public void TurnOff()
+	{
+		gameObject.SetActive (false);
+	}
+
+	public void TurnOn()
+	{
+		gameObject.SetActive (true);
 	}
 }
